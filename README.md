@@ -50,7 +50,12 @@ Initial Coin Offering (ICO) is the cryptocurrency’s world public crowdsale. Wh
       - Check Equivalence price to USD (In this ICO 1000 tokens equals 1 Dollars)
       - Sell Hadcoin Tokens
     
-    
+# Contributing
+
+- I welcome pull requests, bug fixes and issue reports. Before proposing a change, please discuss your change by raising an issue.
+
+# Author
+- [Kumar Gaurav](https://www.linkedin.com/in/arkhaminferno/)
     
     
  
